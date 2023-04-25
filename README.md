@@ -1,1 +1,2 @@
-# My_Second_Repository
+# My Second Repository
+- **Student:** _Steve Van Sant_
